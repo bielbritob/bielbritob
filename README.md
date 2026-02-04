@@ -1,16 +1,13 @@
-## Hi there 👋
+## Fala! Eu sou o Biel 👋
 
-<!--
-**bielbritob/bielbritob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia da Computação  
+🛠️ Interesse em Suporte Técnico, Hardware e Programação  
+🐍 Python | 💻 C++ | ⚡ Projetos práticos
 
-Here are some ideas to get you started:
+### 🚀 Projetos em destaque
+- 🤖 Phoenix-Assistant — Assistente de notas speech recognition.  ➡ [Phoenix-Assistant](https://github.com/bielbritob/Phoenix-assistant)
+- 🖥️ Ferramenta de preço com Streamlit ➡ [PriceWise](https://github.com/bielbritob/PriceWise)
+- 🔧 Manutenção e diagnóstico de PCs e notebooks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contato
+LinkedIn: [linkedin.com/in/bielbritob](www.linkedin.com/in/bielbritob)
