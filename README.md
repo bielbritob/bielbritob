@@ -5,8 +5,10 @@
 🐍 Python | 💻 C++ | ⚡ Projetos práticos
 
 ### 🚀 Projetos em destaque
-- 🤖 Phoenix-Assistant — Assistente de notas speech recognition.  ➡ [Phoenix-Assistant](https://github.com/bielbritob/Phoenix-assistant)
-- 🖥️ Ferramenta de preço com Streamlit ➡ [PriceWise](https://github.com/bielbritob/PriceWise)
+- 🤖 [**Phoenix Assistant**](https://github.com/bielbritob/Phoenix-assistant) — Assistente pessoal com reconhecimento de fala e automações    
+ 
+- 🖥️ [**PriceWise**](https://github.com/bielbritob/PriceWise) — Aplicação em Streamlit para análise e comparação de preços  
+  
 - 🔧 Manutenção e diagnóstico de PCs e notebooks
 
 ### 📫 Contato
