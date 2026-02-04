@@ -9,7 +9,7 @@
  
 - 🖥️ [**PriceWise**](https://github.com/bielbritob/PriceWise) — Aplicação em Streamlit para análise e comparação de preços  
   
-- 🔧 Manutenção e diagnóstico de PCs e notebooks
+
 
 ### 📫 Contato
 LinkedIn: [linkedin.com/in/bielbritob](https://www.linkedin.com/in/bielbritob/)
