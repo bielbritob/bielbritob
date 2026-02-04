@@ -12,4 +12,4 @@
 - 🔧 Manutenção e diagnóstico de PCs e notebooks
 
 ### 📫 Contato
-LinkedIn: [linkedin.com/in/bielbritob](www.linkedin.com/in/bielbritob)
+LinkedIn: [linkedin.com/in/bielbritob](https://www.linkedin.com/in/bielbritob/)
