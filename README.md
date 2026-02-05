@@ -9,7 +9,7 @@
  
 - 🛒 [**PriceWise**](https://github.com/bielbritob/PriceWise) — Aplicação em Streamlit para análise e comparação de preços
 
--  [**TaskManager++**](https://github.com/bielbritob/TaskManager++) — Alternativa ao TaskManager original do Windows 10
+-  [**TaskManager++**](https://github.com/bielbritob/TaskManagerpp) — Alternativa ao TaskManager original do Windows 10
   
 
 
